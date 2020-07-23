@@ -1,6 +1,6 @@
 Using Ubuntu 20.04 with docker preinstalled for this scenario
 
-##Task
+## Task
 
 Check docker installed:
 
@@ -8,7 +8,7 @@ Check docker installed:
 
 Install Vagrant using the following command:
 
-`apt install vagrant`{{execute}}
+`apt install vagrant -y`{{execute}}
 
 Check vagrant installation:
 

@@ -1,4 +1,4 @@
-##Task
+## Task
 
 Initialize Vagrant in a specific directory to create Vagrantfile:
 
