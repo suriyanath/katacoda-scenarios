@@ -16,7 +16,7 @@ Create Vagrantfile which contains container image details and credentials for ss
     d.image = "suriyanath/alpine_ssh"
     d.has_ssh = true
   end
-  config.vm.provision "shell", inline: "echo vagrant_likes_docker" > truth.txt", privileged: false
+  config.vm.provision "shell", inline: "echo vagrant_likes_docker > truth.txt", privileged: false
 end' > Vagrantfile`{{execute}}
 
 The above configuration uses alpine image with ssh server running.
