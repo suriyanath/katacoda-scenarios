@@ -21,7 +21,7 @@ Modify Vagrantfile to create docker container and provision:
     d.has_ssh = true
   end
   config.vm.provision "shell", inline: "echo 'vagrant likes docker' > truth.txt", privileged: false
-end' > Vagrantfile`
+end' > Vagrantfile`{{execute}}
 
 Run vagrant:
 
