@@ -1,4 +1,4 @@
-Using Ubuntu 20.04 with docker preinstalled for this scenario
+Using Ubuntu 18.04 with docker preinstalled for this scenario
 
 ## Task
 
