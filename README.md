@@ -1,8 +1,8 @@
 # Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/ssuriyanath/count.svg)](https://www.katacoda.com/ssuriyanath "Get your profile on Katacoda.com")
+[![](http://shields.katacoda.com/katacoda/suriyanath/count.svg)](https://www.katacoda.com/suriyanath "Get your profile on Katacoda.com")
 
-Visit https://www.katacoda.com/ssuriyanath to view the profile and interactive scenarios
+Visit https://www.katacoda.com/suriyanath to view the profile and interactive scenarios
 
 ### Writing Scenarios
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
